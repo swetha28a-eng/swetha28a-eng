@@ -62,4 +62,34 @@ I am an **Active Learner and Listener**, deeply passionate about leveraging emer
 
 > **The Problem:** Globally, fake food and counterfeit medicines are risking millions of lives. Currently, detecting genuineness requires laboratory analysis—a process that is costly, time-consuming, and inaccessible to the average person. Furthermore, many lack awareness of safe consumption standards.
 
-> **Our Solution:** We are developing a 
+> **Our Solution:** We are developing a *portable, AI-powered device* that instantly detects the authenticity of a product. It offers a fast, cheap, and accessible alternative to lab testing, empowering everyday consumers to verify what they eat and use.
+
+---
+
+## 🏆 Laurels & Achievements
+
+### 🥇 First Prize & Best Paper Award 
+*2nd International Conference on Blockchain and Artificial Intelligence (ICBCAI 2025)* 📍 Dwaraka Doss Goverdhan Doss Vaishnav College, Chennai | September 17, 2025
+
+* *Paper:* "Automation of Car Insurance Claims using AI Models and Blockchain Oracles"
+* *Impact:* Showcased a revolutionary framework utilizing AI-driven fraud detection, IoT data simulation, and Ethereum smart contracts with Chainlink oracles to create an entirely secure, automated, and tamper-proof car insurance claim ecosystem.
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" alt="Footer Banner" />
+</div>
+
+<div align="center">
+  <i>"Technology is best when it brings people together."</i> <br>
+  <b>Thank you for visiting my profile!</b>
+</div>
